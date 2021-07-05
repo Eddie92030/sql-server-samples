@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/eddiekhor/e0e63395-c304-428e-b7d5-4dde380f7a21/22a3a13b-c18c-4cd0-bb1d-f41239030bc7/_apis/work/boardbadge/326c4ca6-a4ec-4693-8dd6-a1655468d97c)](https://dev.azure.com/eddiekhor/e0e63395-c304-428e-b7d5-4dde380f7a21/_boards/board/t/22a3a13b-c18c-4cd0-bb1d-f41239030bc7/Microsoft.EpicCategory)
 # SQL Server Samples Repository
 This GitHub repository contains code samples that demonstrate how to use Microsoft's SQL products including SQL Server, Azure SQL Database, and Azure SQL Data Warehouse. Each sample includes a README file that explains how to run and use the sample.
 
